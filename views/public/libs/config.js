@@ -19,7 +19,8 @@ require.config({
     'region':'assets/jquery-region/jquery.region',
     'ckeditor':'assets/ckeditor/ckeditor',
     'utils':'js/utils/utils',
-    'jcrop':'assets/jquery-jcrop/js/Jcrop'
+    'jcrop':'assets/jquery-jcrop/js/Jcrop',
+    'echarts':'assets/echarts/echarts.min'
   },
   shim:{
     'bootstrap':{
